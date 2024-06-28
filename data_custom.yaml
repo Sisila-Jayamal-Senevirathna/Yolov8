@@ -1,0 +1,5 @@
+train: D:\SJAY\Python\Yolov8\train
+val: D:\SJAY\Python\Yolov8\val
+
+nc: 1
+names: ["guppy"]
